@@ -4,7 +4,7 @@
 # DeepLearningBook
 MIT Deep Learning Book in PDF format
 
-This book was downloaded in HTML form and conviniently joined as a single PDF file for your enjoyment. Please notice the known issues in the web page, especially with regards to some symbols not rendering well or not at all. MOBI and EPUB versions have been added.
+This book was downloaded in HTML form and conveniently joined as a single PDF file for your enjoyment. Please notice the known issues in the web page, especially with regard to some symbols not rendering well or not at all. MOBI and EPUB versions have been added.
 
 This is NOT a perfect copy of the book and it is not meant to be, it is just a printout from the author's website, which some people have trouble performing. If you want the original source, please purchase it from Amazon (link below). I will not be fixing PDF by hand to make this perfect.
 
