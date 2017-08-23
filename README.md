@@ -8,7 +8,7 @@ This book was downloaded in HTML form and conveniently joined as a single PDF fi
 
 This is NOT a perfect copy of the book and it is not meant to be, it is just a printout from the author's website, which some people have trouble performing. If you want the original source, please purchase it from Amazon (link below). I will not be fixing PDF by hand to make this perfect.
 
-PLEASE SUPPORT PROFESSOR IAN GOODFELLOW and the authors if you can purchase the paper book at Amazon. It is not expensive ($72) and probably contains content that is newer and without typographic mistakes.
+PLEASE SUPPORT PROFESSOR IAN GOODFELLOW and the authors if you can purchase the paper book at Amazon. It is not expensive and probably contains content that is newer and without typographic mistakes. The hardcover price dropped from $72 to $54 recently!
 
 [Deep Learning - Adaptive Computation and Machine Learning series](http://amzn.to/2qlQqZs) by Ian Goodfellow (Author), Yoshua Bengio  (Author), Aaron Courville  (Author)
 
