@@ -86,7 +86,7 @@
 - Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition (2012) G. Dahl et al. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.7548&rep=rep1&type=pdf) :sparkles:
 
 ### RL Robotics
-- Mastering the game of Go with deep neural networks and tree search, D. Silver et al. *(DeepMind)* [[pdf]](Mastering the game of Go with deep neural networks and tree search)
+- Mastering the game of Go with deep neural networks and tree search (2016), D. Silver et al. *(DeepMind)* [[pdf]](https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf)
 - Human-level control through deep reinforcement learning (2015), V. Mnih et al. *(DeepMind)* [[pdf]](http://www.davidqiu.com:8888/research/nature14236.pdf) :sparkles:
 - Deep learning for detecting robotic grasps (2015), I. Lenz et al. [[pdf]](http://www.cs.cornell.edu/~asaxena/papers/lenz_lee_saxena_deep_learning_grasping_ijrr2014.pdf)
 - Playing atari with deep reinforcement learning (2013), V. Mnih et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1312.5602.pdf))
